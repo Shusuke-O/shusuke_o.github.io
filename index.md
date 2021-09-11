@@ -11,11 +11,11 @@ I'm currently working on the development of home rehabilitative systems using we
 
 ## Education
 
-University of California, Irvine $|$ Ph.D in Mechanical and Aerospace Engineering  -- Advisor: Dr. David J. Reinkensmeyer ... 2018 - Present
+University of California, Irvine : Ph.D in Mechanical and Aerospace Engineering  -- Advisor: Dr. David J. Reinkensmeyer : 2018 - Present
 
-University of Tsukuba (Retired) $|$ M.S. in Mechanical and Aerospace Engineering -- Advisor: Dr. Shigeru Yokota ... 2016 - 2017
+University of Tsukuba (Retired) : M.S. in Mechanical and Aerospace Engineering -- Advisor: Dr. Shigeru Yokota : 2016 - 2017
 
-Seikei University $|$ B.S. in Mechanical Engineering -- Advisor: Takashi Sakai ... 2014 - 2016
+Seikei University : B.S. in Mechanical Engineering -- Advisor: Takashi Sakai : 2014 - 2016
 
 ## Technical Skills
 
@@ -34,13 +34,24 @@ Languages: English(Fluent), Japanese(Native)
 Certifications: Scuba Diving Lisence(BSAC Ocean Diver), TOEFL 90 (November 2017)
 
 ## Research Experiences
+
+
+### Development of Quality Measure toward Movement Smoothness(September 2018 - March 2018)
+Research Interests - Stroke, Algorithm, Rehabilitation
+Paper Title - Measuring Movement Quality of the Stroke-Impaired Upper
+Extremity with a Wearable Sensor: Toward a Smoothness Metric for
+Home Rehabilitation Exercise Programs
+
+The paper is going to be published on the EMBC 2021.
+
 ### Development of Minimalistic Exoskeleton(April 2017 - March 2018)
-Research Interests: Robotics, Soft Robotics, Rehabilitation Robotics
+Research Interests - Robotics, Soft Robotics, Rehabilitation Robotics
 
-As a Visiting Scholar in the BioRobotics Lab of Prof. David Reinkensmeyer, I made an exoskeleton using a soft actuator
+As a Visiting Scholar in the BioRobotics Lab of Prof. David Reinkensmeyer, I made an exoskeleton using a soft actuator that auguments the force of the pinch motion.
 
-I analyzed mechanical properties of the soft actuator creating the test bench
-
+- I analyzed mechanical properties of the soft actuator creating the test bench
+- made an exoskeleton using soft robotics(soft robotics, Control, Electronics)
+- analyzed mechanical properties of the soft actuator (MATLAB)
 
 ## Project Experiences
 ### FSAE Competition(September, 2015)
@@ -61,5 +72,6 @@ I developed the following components and played the following role
 - managed a team and made a schedule to develop and manufacture the student formula car
 
 ## Volunteer Experience
-
+### Student Jazz Festival in Tokyo (May, 2014)
+- as an exective staff, participated the biggest Student Jazz Festival in Odaiba, Tokyo (Jazzline 2014)
 
