@@ -36,7 +36,7 @@ Certifications: Scuba Diving Lisence(BSAC Ocean Diver), TOEFL 90 (November 2017)
 ## Research Experiences
 
 
-### Development of Quality Measure toward Movement Smoothness(September 2018 - March 2018)
+### Development of Quality Measure toward Movement Smoothness(September 2020 - May 2021)
 Research Interests - Stroke, Algorithm, Rehabilitation
 Paper Title - Measuring Movement Quality of the Stroke-Impaired Upper
 Extremity with a Wearable Sensor: Toward a Smoothness Metric for
