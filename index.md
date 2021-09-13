@@ -54,6 +54,11 @@ As a Visiting Scholar in the BioRobotics Lab of Prof. David Reinkensmeyer, I mad
 - analyzed mechanical properties of the soft actuator (MATLAB)
 
 ## Project Experiences
+### 
+
+### Image Processing for the Space Debris tracking (July 2016)
+To track streaks of the space debris, I participated in the development of the image recognition algorithm.
+
 ### FSAE Competition(September, 2015)
 As a Bachelor's thesis project, I Joined a Student Formula Car Development Competition (FSAE - JAPAN) in September 2015
 
