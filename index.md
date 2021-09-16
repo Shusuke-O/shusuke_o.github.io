@@ -15,7 +15,7 @@ University of California, Irvine : Ph.D in Mechanical and Aerospace Engineering 
 
 University of Tsukuba (Retired) : M.S. in Mechanical and Aerospace Engineering -- Advisor: Dr. Shigeru Yokota : 2016 - 2017
 
-Seikei University : B.S. in Mechanical Engineering -- Advisor: Takashi Sakai : 2014 - 2016
+Seikei University : B.S. in Mechanical Engineering -- Advisor: Dr. Takashi Sakai : 2014 - 2016
 
 ## Technical Skills
 
@@ -54,7 +54,6 @@ As a Visiting Scholar in the BioRobotics Lab of Prof. David Reinkensmeyer, I mad
 - analyzed mechanical properties of the soft actuator (MATLAB)
 
 ## Project Experiences
-### 
 
 ### Image Processing for the Space Debris tracking (July 2016)
 To track streaks of the space debris, I participated in the development of the image recognition algorithm.
