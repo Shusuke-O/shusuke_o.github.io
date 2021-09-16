@@ -47,7 +47,7 @@ The paper is going to be published on the EMBC 2021.
 ### Development of Minimalistic Exoskeleton(April 2017 - March 2018)
 Research Interests - Robotics, Soft Robotics, Rehabilitation Robotics
 
-As a Visiting Scholar in the BioRobotics Lab of Prof. David Reinkensmeyer, I made an exoskeleton using a soft actuator that auguments the force of the pinch motion.
+As a Visiting Scholar in the BioRobotics Lab of Professor David Reinkensmeyer, I made an exoskeleton using a soft actuator that auguments the force of the pinch motion.
 
 - I analyzed mechanical properties of the soft actuator creating the test bench
 - made an exoskeleton using soft robotics(soft robotics, Control, Electronics)
