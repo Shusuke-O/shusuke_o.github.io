@@ -1,5 +1,7 @@
 ## Shusuke Okita
 
+![Book logo](/shusuke_o.github.io/docs/assets/K21DI-0307_USB.jpg)
+
 Welcome to Shusuke Okita's Website!
 I am a PhD student at University of California Irvine.
 
