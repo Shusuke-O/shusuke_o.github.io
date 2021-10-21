@@ -1,6 +1,6 @@
 ## Shusuke Okita
 
-![Book logo](/shusuke_o.github.io/docs/assets/face.jpg)
+![Book logo](/shusuke_o.github.io/docs/assets/face.png)
 
 Welcome to Shusuke Okita's Website!
 I am a PhD student at University of California Irvine.
